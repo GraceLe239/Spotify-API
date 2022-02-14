@@ -1,0 +1,15 @@
+{
+  "spotify": {
+    "client-id": "9cf62620e57c4e7e87e1a2a0f29cad12",
+    "client-secret": "323e3d0e04064e7597ffdc4e2c7e0364",
+    "redirect-url": "https://caileighmarshall.github.io/cs181project/",
+    "state": "3DVZJKJV",
+    "scope": "playlist-read-private playlist-read-collaborative user-follow-read playlist-modify-private user-read-email user-read-private app-remote-control streaming user-follow-modify user-modify-playback-state user-library-read user-library-modify playlist-modify-public user-read-playback-state user-read-currently-playing user-read-recently-played user-read-playback-position user-top-read",
+    "response-type": "code",
+    "code": "AQDoyw8Fez-r9A4czxBjQWSd5NptF7r3tQ6fjXPH1MVN47r60PNHyXU-I1NEg8UgW122iqyaoi-VOOwlCAqntcQyBs6H3rNB_YhfDzDDoPqBXLCGB7HoR3-WC9r1OFBh7TopjHkaBA4uBGLPSUykIXdU75tHzmtnVkyQS_pVoo0XggppqgvahOdas1CjMEiIQF3lZqhJSdtZjDjPuyG7WATDCo-ZGgh5deFqZqpI98N8l9VSQCQExC2PQhGJuiK_3i4Yj3Fq2TfVE1UJ2FNX343oI64VXqaAQ80z9aUb6jWQ1iPqPc9ujqOXeH1EG-otEvUyBVQKc8CjQg7TA-anNPn-_D8yFIeN7lfl-xil5iThhVjG7sOJx-YmR3ysW2tqd1PL0wjA2MkdlcubD6Jq2kIqmyu7-fcsQxb_p3nkAHXOsRRfw5vhq5ZZYhh9NO3xiiQaKsJ7tg_W96Xe-GMDMYTdsry6UIBxZ-hwnG72cehEYkldjfjL42eU5BIrA0GcwHCObZAlx3XDhBym1lo5NjZJ9IPpjZYXSl7YYabltJLDoEBObkV0kqSXou4-7uY07CUxZ4qjcoLaEZ1no0NQFF6wXGjFM2o0lb6z40tOHkc7-Me3kEwzRkN_w6lmsk-LCgdA6tA4PyxZyIEwf5FI0iubVQ5DzY65CQTysHYGzZQc2Zxw5uSrEdBebyZ7O52Im70Dgg6iBHGgTG0R5rU4XaGFado",
+    "grant-type": "authorization_code",
+    "token": "BQCWqdrlbbf7rhrx2PBicu_VSXzrLb0E3trC9RKpq11CbkXhox4p5jxlWG-j4j6vlclLIcQW5Hf9Bl1yYbvvMVdf_6efTWj0HlC6_uc3eiRIUiPlpYh1kNkbqDInj6YVHwEJd4y-A6xOjHHeKYpvmlBbcny91vieOlfm4T2w-ueJxDlGSeXVZ4qPSFtk1kIIrjRh2egQyrp8NW32X9NuceDoydGmXVVGa0iUoT0YUMNKQD0aL6deiH-kr4R3qbgJ0s38ldzna0mxKeGAqjQQpGbdrTk9_iI_1_VmZzZrYj_UvD4SOQ",
+    "expires": "2021-05-19 04:43:52.168453",
+    "refresh": "AQBvRycYSK1tyKCT5kyz0UjRWaTIrEUWHNQaRNRvi0oWa0xOpbiqEv0gWOqxP8tsCc8cRQlASCC349p6bYme0_vrtuQMVAVHm04mqxDP341QKdcFAvYbmSijeZDkSwMOO70"
+  }
+}
