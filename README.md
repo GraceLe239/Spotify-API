@@ -1,10 +1,10 @@
-# Final Project: Web Service APIs
+# Web Service APIs
 
-This final project should serve to bring together almost all of the topics we have been covering throughout this class, from manipulating tidy data to working with hierarchical data to the underpinnings of client-server computing and working with Provider APIs.
+This project should serve to bring together almost all of the topics we have been covering throughout this class, from manipulating tidy data to working with hierarchical data to the underpinnings of client-server computing and working with Provider APIs.
 
 It is also intended to be self-defined.  Do some exploration and find data from a provider that you are interested in investigating.  
 
-The final products of this project are two-fold:  
+The products of this project are two-fold:  
 
 1. You will produce and turn in a Notebook that gives documented processing code, organized as a set of functions, that shows your Python programming steps of data acquisition, traversing data and building normalized (tidy) data tables, and the export of the tidy data as CSV files to be used to enable visualizations.  It should also include code for some preliminary data exploration, like histograms or scatter plots used to better understand the data.
 
@@ -49,14 +49,6 @@ Single-person and triple person teams are possible, but the expectation will be 
     - On the data source side, this could mean 3 data sources, or could mean use of the more sophisticated OAuth2 security and use of more endpoints.
     - The team could design and populate a **relational database** with their resultant tidy data (instead of growing to additional data sources).
     - The team should have 4 to 5 interesting questions as part of their data story, depending on the aggregate level of sophistication of the questions.
-
-## Process
-
-Projects will be due the last day of regular exams by **5pm, May 18th**. Students are **strongly encouraged** to start early.
-
-Projects that are completed by **5pm May 16** will be given 5% extra credit.
-
-The project specifics are left to the creativity and design by the student involved, but must satisfy all of the above goals.  Explore the Providers and APIs, perhaps coming up with providers that are not included in the provided lists, and think about data that excites/intrigues you.
 
 ## Some OAuth Data Providers
 
